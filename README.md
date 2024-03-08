@@ -7,5 +7,11 @@ Name: Ruth Johana Hutagalung
 
 Program: IBM Advanced AI
 ### :robot: Tech Stack: 
+- JavaScript
 - Python
+- CSS
+- HTML
+- Dockerfile
 - Flask
+- LangChain
+- OpenAI
